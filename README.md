@@ -1,6 +1,6 @@
 # Text Classification for Mental Health Detection
 
-A multi-class NLP pipeline that classifies mental health status from textual statements. The project covers the full workflow from exploratory analysis through model training, evaluation, and interpretability (SHAP). Built as a group project for DS675 at NJIT.
+A multi-class NLP pipeline that classifies mental health status from textual statements. The project covers the full workflow from exploratory analysis through model training, evaluation, and interpretability (SHAP).
 
 ## Problem Statement
 
@@ -119,7 +119,7 @@ After execution the notebook also produces:
 
 ## Authors
 
-Ananta Dian Pradipta and collaborators (DS675, NJIT)
+Ananta Dian Pradipta and collaborators
 
 ## License
 
